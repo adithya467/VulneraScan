@@ -1,22 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to your Vulner project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/079eeff0-f3c2-42d7-88e8-8a5be3746804
+**URL**: https://vulnerascan.dev/projects/scan-dashboard
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use Vulner**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/079eeff0-f3c2-42d7-88e8-8a5be3746804) and start prompting.
+Simply visit the [Vulner Project]( https://vulnerascan.dev/projects/scan-dashboard) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Valner.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,9 +62,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/079eeff0-f3c2-42d7-88e8-8a5be3746804) and click on Share -> Publish.
+Simply open [Valner](https://vulnerascan.dev/projects/scan-dashboard) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my Vulner project?
 
 Yes, you can!
 
